@@ -1,0 +1,40 @@
+* { margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+	border: none;
+	outline: none;
+    background-color: #1C315E ;
+    color: whitesmoke
+} 
+
+#logo {
+    width: 100px;
+    height: 100px;
+}
+
+#image1{
+    display: inline-block;
+    margin: 30px;
+    padding: 70px;
+    width: 80vw;
+    height: 800px;
+    
+}
+
+#barra{
+    display: flex;
+    flex-direction: column; 
+}
+#titulo {
+    color: #E6E2C3 
+}
+
+#titulo2{
+   background-color:#227C70;
+   display: inline-block;
+
+   width: 80vw;
+   margin: 30px 100px 20px 100px;
+   height: 30px;
+}
